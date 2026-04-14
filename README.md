@@ -23,3 +23,6 @@ Sample data is available in data/sample/
 Alternative public datasets can include:
 RSNA Pulmonary Embolism Dataset
 MIMIC-IV Clinical Database
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/438894ec-7e8f-4413-b4ff-21386db24c8c" />
+
